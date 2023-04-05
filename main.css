@@ -39,6 +39,7 @@ body {
   margin: 0;
   font-family: "Plus Jakarta Sans", "Arial", sans-serif;
   font-weight: 700;
+  background-color: dodgerblue;
 }
 .container {
   width: 1260px;
